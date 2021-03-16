@@ -1,0 +1,3 @@
+    <TouchableOpacity onPress={() => navigation.navigate('Sub',{catid:4})}> 
+
+    </TouchableOpacity> 
